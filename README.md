@@ -8,5 +8,5 @@ Frontend Development Patikası kapsamında yaptığım ilk Bootstrap ödevidir. 
 
 ![ürünlerimiz](https://user-images.githubusercontent.com/107553286/186862328-f0018595-fd61-4a87-93a4-cdf8c2babb9b.png)
 
-![hakkımızda](https://user-images.githubusercontent.com/107553286/186862484-7c282494-6b9a-4e68-85ae-7a526a16ce8b.png)
+![hakkımızda](https://user-images.githubusercontent.com/107553286/186867066-183e596e-512e-4524-8790-9a1d138c382e.png)
 
